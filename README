@@ -1,0 +1,6 @@
+Work done during iDigBio hackaton,
+Dec 16 - 20, 2013
+
+Java code, on training n-grams model, which is to be used to estimate the probability of generating a word.
+
+The n-grams model is tranined at character level.
